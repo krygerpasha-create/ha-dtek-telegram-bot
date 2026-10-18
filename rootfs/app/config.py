@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 OPTIONS_PATH = Path("/data/options.json")
 CONFIG_PATH = Path("/data/config.yaml")
-CONFIG_PATH_HA = Path("/homeassistant/dtek_telegram_bot.yaml")  # accessible via File Editor / VS Code
+CONFIG_PATH_HA = Path("/homeassistant/dtek_telegram_bot_2.yaml")  # accessible via File Editor / VS Code
 DEFAULT_CONFIG_PATH = Path("/app/default_config.yaml")
 RUNTIME_CONFIG_KEYS = ("ha_token", "export_default_templates", "addresses")
 
