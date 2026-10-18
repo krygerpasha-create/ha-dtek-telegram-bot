@@ -1,7 +1,7 @@
 ---
 name: "DTEK Telegram Bot 2"
 version: "0.3.13"
-slug: "dtek_telegram_bot 2"
+slug: "dtek_telegram_bot_2"
 description: >-
   Telegram notifications for DTEK Monitor with local power validation
 url: "https://github.com/groove-max/ha-dtek-telegram-bot"
